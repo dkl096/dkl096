@@ -1,16 +1,19 @@
 # Hello! 👋🐋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Console&size=25&pause=1000&center=true&vCenter=true&random=false&lines=Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
 ## 🐋 About Me
+
 My name is Dian.
 
-:woman_scientist: 8 years of biotech R&D experience.
+:woman_scientist: 8 years of biotech R&D researcher
 
-:woman_technologist: Aspiring **Software Developer**.
+:woman_technologist: Aspiring **Full-Stack Developer** with interest in **Front-end** and **Machine Learning**.
 
-:woman_artist: *Occassional Illustrator* | :memo: *Adept Learner* | :tea: *Tea Addict*
+:woman_artist: _Occassional Illustrator_ | :memo: _Adept Learner_ | :tea: _Tea Addict_
 
 ## 🐋🛠️ My Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000)
 ![React.js](https://img.shields.io/badge/react.js-23282c?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/-html5-e34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -23,11 +26,22 @@ My name is Dian.
 ![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/android-073042?style=for-the-badge&logo=android)
 
-
 ## 🐋✏️📚 Currently Learning
+
+![AWS](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900)
+![Node.js](https://img.shields.io/badge/node.js-6cc24a?style=for-the-badge&logo=nodedotjs&logoColor=215732)
 ![Vue.js](https://img.shields.io/badge/-vue.js-23282C?style=for-the-badge&logo=vuedotjs)
 ![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+## 🐋 Interests
 
+- Delivering functional and aesthetically pleasing user interface.
+- How to embrace AI without losing our human touch.
+- Illustration & Digital Art.
+- Pop Culture.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
