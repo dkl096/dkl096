@@ -7,7 +7,7 @@ My name is Dian.
 
 :woman_scientist: 8 years of biotech R&D experience.
 
-:woman_technologist: Aspiring software developer.
+:woman_technologist: Aspiring ==software developer==.
 
 :woman_artist: Occassional illustrator.
 
@@ -27,4 +27,5 @@ My name is Dian.
 ![Vue.js]()
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 ![image](https://github.com/dkl096/dkl096/assets/144052734/b2844475-6620-4fdf-9cab-d2c1ffda6e6d)
