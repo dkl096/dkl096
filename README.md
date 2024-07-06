@@ -1,6 +1,11 @@
 # Hello! 👋🐋
 
+<div style="display: flex; justify-content: center;">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Console&size=25&pause=1000&center=true&vCenter=true&random=false&lines=Welcome+to+My+GitHub!)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="160" />
+
+</div>
 
 ## 🐋 About Me
 
@@ -10,7 +15,7 @@ My name is Dian.
 
 :woman_technologist: Aspiring **Full-Stack Developer** with interest in **Front-end** and **Machine Learning**.
 
-:woman_artist: _Occassional Illustrator_ | :memo: _Adept Learner_ | :tea: _Tea Addict_
+:woman_artist: _Occassional Illustrator_ | :memo: _Adept Learner_ | :tea: _Tea Addict_ | 
 
 ## 🐋🛠️ My Tech Stack
 
@@ -39,6 +44,8 @@ My name is Dian.
 - How to embrace AI without losing our human touch.
 - Illustration & Digital Art.
 - Pop Culture.
+
+## <!-- @TODO: add git status in the future-->
 
 <div align="center">
 
